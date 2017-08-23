@@ -1,0 +1,7 @@
+public class Usuario {
+
+	String nombre;
+	String email;
+	Date fechaNacimiento;
+
+}
