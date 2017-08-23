@@ -2,6 +2,7 @@ public class Usuario {
 
 	String nombre;
 	String email;
+	float estatura;
 	Date fechaNacimiento;
 
 }
